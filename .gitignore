@@ -1,2 +1,11 @@
 .idea/
 .venv/
+conteo_cluster_semanal/*
+conteo_tipo_semanal/*
+mapa_cluster_0_semanal/*
+mapa_cluster_1_semanal/*
+mapa_cluster_2_semanal/*
+mapa_clusters_semanal/*
+mapa_tipo_FD_semanal/*
+mapa_tipo_FHD_semanal/*
+mapa_tipo_semanal/*
